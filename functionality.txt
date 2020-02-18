@@ -1,0 +1,29 @@
+Modules in TestTool...
+login module
+side panel modules( View Post Edit Jobs,stats,Log...)
+View source module
+Computer assisted translation....
+Dictionary module
+comment module
+Concordance module...
+Spellcheck module(sentence,file spellcheck...)
+task_info check...
+Rough
+Syndict
+translitrate
+TM module
+Project guidelines(pg)...
+myQueries..
+search and Replace module
+AMT..
+SMT..
+GMT..
+BMT..
+Yandex
+Google search
+Google Directory
+Shabdkosh dictionary
+Hindi wordnet module..
+Wikipedia..
+Charcater Transliteration
+Mark_for_training module
